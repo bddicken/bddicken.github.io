@@ -15,3 +15,9 @@ Contact me at {{site.email}}
 ### [LinkedIn](https://www.linkedin.com/pub/benjamin-dicken/73/97a/787)
 ### [StackOverflow](http://stackoverflow.com/users/1522168/bddicken)
 
+
+```
+def main():
+   print('hello world')
+main()
+```
