@@ -11,7 +11,7 @@ stackoverflow_username:  bddicken
 # Build settings
 highlighter: rouge
 markdown: kramdown
-theme: architect
+theme: slate
 gems:
   - jekyll-feed
   - jekyll-seo-tag
